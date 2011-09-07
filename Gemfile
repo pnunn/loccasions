@@ -8,6 +8,7 @@ gem 'mongoid_spacial', "~> 0.2.13"
 gem 'haml', '~> 3.1.2'
 gem 'bson_ext', '~> 1.3.1'
 gem 'rails-backbone', '~> 0.5.3'
+gem 'haml-rails', '~> 0.3.4'
 
 # Bundle edge Rails instead:
 # gem 'rails',     :git => 'git://github.com/rails/rails.git'
